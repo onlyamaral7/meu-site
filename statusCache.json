@@ -1,0 +1,22 @@
+{
+  "username": "only.amaral7#0",
+  "avatar": "https://cdn.discordapp.com/avatars/1378167915664113815/a_0d4e2dfb09de7448bed56a46a27f9b4d.gif?size=256",
+  "flags": [],
+  "status": "dnd",
+  "activities": [
+    {
+      "type": 0,
+      "name": "Code",
+      "details": "Idling",
+      "state": null
+    },
+    {
+      "type": 0,
+      "name": "Visual Studio Code",
+      "details": null,
+      "state": null
+    }
+  ],
+  "nitro": false,
+  "boosting": false
+}
